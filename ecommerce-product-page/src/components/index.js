@@ -1,0 +1,5 @@
+export {default as Header} from './Header.jsx'
+export {default as Slider} from './Slider.jsx'
+export {default as MiddleText} from './MiddleText.jsx'
+export{default as AddToCart} from './AddToCart'
+export {default as MobileMenu} from './MobileMenu'

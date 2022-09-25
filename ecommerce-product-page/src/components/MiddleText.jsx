@@ -1,5 +1,5 @@
 
-import AddToCart from "./AddToCart";
+import AddToCartButton from "./AddToCartButton";
 import ShoesQuantity from "./ShoesQuantity";
 
 const MiddleText = () => {
@@ -20,7 +20,7 @@ const MiddleText = () => {
             </div>
             <div className="mt-7">
                 <ShoesQuantity/>
-                <AddToCart/>
+                <AddToCartButton/>
             </div>
         </div>
      );

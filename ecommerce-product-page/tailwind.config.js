@@ -25,6 +25,7 @@ module.exports = {
       width:{
         menuWidth:'71%',
         cartWidth:'94%',
+        cartText:'215px',
       },
     },
   },

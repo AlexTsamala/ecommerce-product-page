@@ -11,7 +11,8 @@ module.exports = {
       },
       height:{
         75: '18.75rem',
-        "0.25" : '1px'
+        "0.25" : '1px',
+        100:'445px',
       },
       backgroundSize:{
         '100%': '100% 100%',
@@ -26,6 +27,12 @@ module.exports = {
         menuWidth:'71%',
         cartWidth:'94%',
         cartText:'215px',
+        100:'445px',
+        84:'360px'
+      },
+      screens:{
+        desktop:"1440px",
+        tablet:"760"
       },
     },
   },

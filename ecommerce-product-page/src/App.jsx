@@ -22,6 +22,7 @@ function App() {
       setShoesQuantity(shoesQuantity-1)
     }
   }
+  
 
   return (
     <div className=" font-KumbhSans">

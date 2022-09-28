@@ -13,6 +13,8 @@ module.exports = {
         75: '18.75rem',
         "0.25" : '1px',
         100:'445px',
+        22:'88px',
+        23:'90px'
       },
       backgroundSize:{
         '100%': '100% 100%',
@@ -25,15 +27,20 @@ module.exports = {
       },
       width:{
         menuWidth:'71%',
-        cartWidth:'94%',
+        cartWidth:'92%',
         cartText:'215px',
         100:'445px',
-        84:'360px'
+        84:'360px',
+        22:'88px',
+        23:'90px',
       },
       screens:{
         desktop:"1440px",
         tablet:"760"
       },
+      spacing:{
+        "0.75":"3%"
+      }
     },
   },
   plugins: [],

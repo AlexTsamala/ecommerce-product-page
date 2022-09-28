@@ -7,11 +7,11 @@ const MiddleText = (props) => {
     return ( 
         <div className="desktop:flex desktop:mt-24 desktop:justify-center desktop:gap-32">
             <DesktopPictures/>
-            <div className="mx-6 mt-6">
+            <div className="mx-6 mt-6 desktop:m-0">
                 <div>
                     <span className="text-orange-500 text-xs font-bold tracking-widest">SNEAKER COMPANY</span>
-                    <h2 className="text-3xl font-bold text-neutral-800 mt-5 desktop:text-5xl w-100">Fall Limited Edition Sneakers</h2>
-                    <p className="text-base text-gray-500 mt-4 min-w-21.5 desktop: w-100">These low-profile sneakers are your perfect casual wear companion. 
+                    <h2 className="text-3xl font-bold text-neutral-800 mt-5 desktop:text-5xl desktop:w-100 desktop:mt-7">Fall Limited Edition Sneakers</h2>
+                    <p className="text-base text-gray-500 mt-4 min-w-21.5 desktop:w-100 desktop:mt-8">These low-profile sneakers are your perfect casual wear companion. 
                     Featuring a durable rubber outer sole, they’ll withstand everything the weather can offer.</p>
                 </div>
                 <div className="flex justify-between items-center mt-7 desktop:flex-col desktop:items-start">

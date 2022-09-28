@@ -14,10 +14,11 @@ module.exports = {
         "0.25" : '1px',
         100:'445px',
         22:'88px',
-        23:'90px'
+        23:'90px',
+        120:"44rem"
       },
       backgroundSize:{
-        '100%': '100% 100%',
+        '100%': '100%',
       },
       minWidth:{
         '21.5':'21.5rem'
@@ -36,7 +37,7 @@ module.exports = {
       },
       screens:{
         desktop:"1440px",
-        tablet:"760"
+        tablet:"760px"
       },
       spacing:{
         "0.75":"3%"
